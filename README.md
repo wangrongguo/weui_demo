@@ -5,6 +5,7 @@
 - npm i weui-miniprogram
 
 #git 提交初始化命令
+```bash
 - echo "# demo" >> README.md
 - git init
 - git add README.md
@@ -12,7 +13,12 @@
 - git branch -M main
 - git remote add origin https://github.com/wangrongguo/demo.git
 - git push -u origin main
-
+```
+```bash
 - git remote add origin https://github.com/wangrongguo/demo.git
 - git branch -M main
 - git push -u origin main
+```
+**标题1**
+
+## 标题2
