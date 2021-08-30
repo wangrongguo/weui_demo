@@ -11,7 +11,7 @@ Page({
       na_animated: true,
       na_back: false,
       na_backcolor: "#D9FFFF",
-      na_text: '橙子',
+      na_text: '我的',
       na_icon: '../../images/wechatHL.png'
     }
   },

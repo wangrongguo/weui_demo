@@ -18,13 +18,13 @@
         "pagePath": "pages/index/index",
         "iconPath": "images/wechat.png",
         "selectedIconPath": "images/wechatHL.png",
-        "text": "橙子"
+        "text": "首页"
       },
       {
         "pagePath": "pages/my/my",
         "iconPath": "images/wechat.png",
         "selectedIconPath": "images/wechatHL.png",
-        "text": "西柚"
+        "text": "我的"
       }
     ]
   },
