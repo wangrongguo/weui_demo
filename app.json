@@ -1,13 +1,32 @@
 {
-  "pages":[
+  "pages": [
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/my/my"
   ],
-  "window":{
-    "backgroundTextStyle":"light",
+  "window": {
+    "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "Weixin",
-    "navigationBarTextStyle":"black"
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "selectedColor": "#1296db",
+    "backgroundColor": "#fff",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "images/wechat.png",
+        "selectedIconPath": "images/wechatHL.png",
+        "text": "橙子"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "images/wechat.png",
+        "selectedIconPath": "images/wechatHL.png",
+        "text": "西柚"
+      }
+    ]
   },
   "style": "v2",
   "sitemapLocation": "sitemap.json"
